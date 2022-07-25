@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# COSMOS dataset
+COSMOS_23.5_training_sample
+*.fits
+
+# Saved galaxy images
+*.npy
